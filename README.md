@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farihatul Ilmiyya</h1>
 <h3 align="center">Backend Engineer | Golang Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farihatul-ilmiyya" alt="farihatul-ilmiyya" /></a> </p>
-
 - 🌱 I’m currently learning **Echo, Gorm**
 
 - 📫 How to reach me **farihatulilmiyya2625@gmail.com**
