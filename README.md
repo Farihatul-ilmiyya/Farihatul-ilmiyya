@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farihatul Ilmiyyarihatul Ilmiyya</h1>
+<h1 align="center">Hi 👋, I'm Farihatul Ilmiyya</h1>
 <h3 align="center">Backend Engineer | Golang Enthusiast</h3>
 
 - 🌱 I’m currently learning **Echo, Gorm**
